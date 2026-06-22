@@ -19,3 +19,35 @@ Tecnologías utilizadas:
 
 Funcionalidades desarrolladas:
   - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="564" height="298" alt="image" src="https://github.com/user-attachments/assets/352fc1c8-6132-42a9-9799-2ac5a12d8287" />
+<img width="555" height="368" alt="image" src="https://github.com/user-attachments/assets/bb385a8b-e9a3-4ed2-ba08-db4bd7acc016" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+

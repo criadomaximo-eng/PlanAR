@@ -3,8 +3,8 @@ Proyecto:
 
     
 Integrantes:
-  - Integrante 1: Diseño y estructura
-  - Integrante 2: Funcionalidades JavaScript
+  - Integrante 1: Petta Franco
+  - Integrante 2: Criado Maximo
 
 Descripcion:
 Este proyecto consiste en el desarrollo de una página web para la visualización y gestión de eventos. Los usuarios pueden consultar los eventos disponibles, visualizar información relevante como fecha y ubicación, y acceder a distintas opciones mediante botones de navegación.
@@ -18,10 +18,15 @@ Tecnologías utilizadas:
   - GitHub
 
 Funcionalidades desarrolladas:
+
 Visualización de eventos destacados mediante tarjetas.
+
 Reserva de lugar con confirmación en pantalla.
+
 Visualización dinámica de categorías de eventos.
+
 Diseño responsive utilizando HTML y CSS.
+
 Navegación mediante botón de retorno al inicio. 
 
 <img width="564" height="298" alt="image" src="https://github.com/user-attachments/assets/352fc1c8-6132-42a9-9799-2ac5a12d8287" />

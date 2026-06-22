@@ -83,3 +83,20 @@ button {
 button:hover {
     background-color: #5548d9;
 }
+.resultado {
+    text-align: center;
+    margin-top: 25px;
+    font-size: 18px;
+}
+
+#mensaje {
+    margin-bottom: 15px;
+    font-weight: bold;
+    color: white;
+}
+
+#listaCategorias {
+    list-style: none;
+    padding: 0;
+    margin-top: 10px;
+}

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Eventos</title>
-    <link rel="stylesheet" href="estilos.css">
+    <link rel="stylesheet" href="css/estilos.css">
 </head>
 <body>
 
@@ -17,29 +17,39 @@
 
         <div class="tarjeta">
             <h2>Festival de Música</h2>
-            <p> 12/07/2026</p>
-            <p> Córdoba Capital</p>
+            <p>12/07/2026</p>
+            <p>Córdoba Capital</p>
         </div>
 
         <div class="tarjeta">
             <h2>Expo Tecnología</h2>
-            <p> 20/07/2026</p>
-            <p> Río Segundo</p>
+            <p>20/07/2026</p>
+            <p>Río Segundo</p>
         </div>
 
         <div class="tarjeta">
             <h2>Feria Gastronómica</h2>
-            <p> 28/07/2026</p>
-            <p> Villa Carlos Paz</p>
+            <p>28/07/2026</p>
+            <p>Villa Carlos Paz</p>
         </div>
 
     </section>
 
     <div class="botones">
-        <button>Reservar lugar</button>
-        <button>Mostrar categorías</button>
-        <button>Volver al inicio</button>
+        <button id="botonReservar">Reservar lugar</button>
+
+        <button id="botonCategorias">Mostrar categorías</button>
+
+        <button onclick="history.back()">Volver al inicio</button>
+        </a>
     </div>
+
+    <div class="resultado">
+    <p id="mensaje"></p>
+    <ul id="listaCategorias"></ul>
+    </div>
+
+    <script src="js/Reservar.js"></script>
 
 </body>
 </html>
